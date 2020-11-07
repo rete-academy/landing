@@ -1,2 +1,2 @@
-# dashboard
-Full stack project for Rete Academy Dashboard
+# landing page
+Landing page front end project for Rete Academy Dashboard
